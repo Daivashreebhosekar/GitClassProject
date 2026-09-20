@@ -1,2 +1,2 @@
-We are learning Git and GitHub .
+We are learning Git&GitHub .
 Today is Sunday 
