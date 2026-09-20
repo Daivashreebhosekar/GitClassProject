@@ -1,2 +1,3 @@
-We are learning Git&GitHub .
-Today is Sunday 
+
+We are learning Git and GitHub .
+Today is Sunday and 20/9/26
